@@ -13,7 +13,7 @@
 - 🧠 Currently deep in **Compiler Construction** and **Operating Systems**
 - 🤖 Built **ResiFix** — an AI-powered residence maintenance system (Flask + ML)
 - 📐 Background in tutoring Mathematics at school & university level
-- 🌱 Always learning — currently exploring [add: whatever you're into right now]
+- 🌱 Always learning — currently focusing on using AI to solve Real World problems
 
 ---
 
