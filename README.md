@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Seluu 👋</h1>
-<h3 align="center">Computer Science Student at University of Zululand</h3>
+<h3 align="center">Computer Science with Mathematics Student at University of Zululand</h3>
 
 <p align="center">
   Building things at the intersection of software, AI, and mathematics.
