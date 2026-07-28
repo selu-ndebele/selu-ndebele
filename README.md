@@ -11,9 +11,9 @@
 
 - 🎓 CS student at the **University of Zululand**, KwaZulu-Natal, South Africa
 - 🧠 Currently deep in **Compiler Construction** and **Operating Systems**
-- 🤖 Built **ResiFix** — an AI-powered residence maintenance system (Flask + ML)
+- 🤖 Built **ResiFix** - an AI-powered residence maintenance system (Flask + ML)
 - 📐 Background in tutoring Mathematics at school & university level
-- 🌱 Always learning — currently focusing on using AI to solve Real World problems
+- 🌱 Always learning - currently focusing on using AI to solve Real World problems
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 📌 Featured Project
 
-**[ResiFix](https://github.com/selu-ndebele/resifix)** — AI-powered residence maintenance co-design system
+**[ResiFix](https://github.com/selu-ndebele/resifix)** - AI-powered residence maintenance co-design system
 - Flask + SQLite backend
 - MobileNetV2 for image classification
 - RandomForestClassifier + TF-IDF for text classification
