@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Seluu 👋</h1>
+<h1 align="center">Hi, I'm Seluu</h1>
 <h3 align="center">Computer Science with Mathematics Student at University of Zululand</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 CS student at the **University of Zululand**, KwaZulu-Natal, South Africa
-- 🧠 Currently deep in **Compiler Construction** and **Operating Systems**
-- 🤖 Built **ResiFix** - an AI-powered residence maintenance system (Flask + ML)
-- 📐 Background in tutoring Mathematics at school & university level
-- 🌱 Always learning - currently focusing on using AI to solve Real World problems
+-  CS student at the **University of Zululand**, KwaZulu-Natal, South Africa
+-  Currently deep in **Compiler Construction** and **Operating Systems**
+-  Built **ResiFix** - an AI-powered residence maintenance system (Flask + ML)
+-  Background in tutoring Mathematics at school & university level
+-  Always learning - currently focusing on using AI to solve Real World problems
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 📌 Featured Project
+###  Featured Project
 
 **[ResiFix](https://github.com/selu-ndebele/resifix)** - AI-powered residence maintenance co-design system
 - Flask + SQLite backend
@@ -42,7 +42,7 @@
 ---
 
 
-### 📫 Reach Me
+###  Reach Me
 
 <p align="left">
   <a href="mailto:selulekouselulihle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
